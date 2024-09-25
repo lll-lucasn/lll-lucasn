@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lll-lucasn
 - 👀 I’m interested in programation
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML And CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram:@lll_lucasn
 - 😄 Pronouns: ...
